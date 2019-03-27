@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\bin\Debug\WorkerStruct.exe.config
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\bin\Debug\WorkerStruct.exe
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\bin\Debug\WorkerStruct.pdb
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\obj\Debug\WorkerStruct.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\obj\Debug\WorkerStruct.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\obj\Debug\WorkerStruct.exe
+c:\users\acer-pc\source\repos\WorkerStruct\WorkerStruct\obj\Debug\WorkerStruct.pdb
